@@ -1,2 +1,3 @@
+This is new line comment 
 This script contains the deployment logic...
 
